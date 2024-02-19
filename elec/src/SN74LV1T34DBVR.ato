@@ -1,0 +1,12 @@
+component SN74LV1T34DBVR:
+    # component SN74LV1T34DBVR
+    footprint = "SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR"
+    lcsc_id = "C100024"
+    mpn = "C100024"
+    # pins
+    signal NC ~ pin 1
+    signal A ~ pin 2
+    signal GND ~ pin 3
+    signal Y ~ pin 4
+    signal VCC ~ pin 5
+
