@@ -1,6 +1,6 @@
 ato-version: ^0.2.0
 builds:
   default:
-    entry: elec/src/sn74lv1t34.ato:Sn74lv1t34
+    entry: elec/src/sn74lv1t34.ato:SN74LV1T34
 dependencies:
 - generics
